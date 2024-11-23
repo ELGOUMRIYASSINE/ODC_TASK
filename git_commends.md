@@ -117,6 +117,8 @@ git branch -D yassine-new_feature
 
 git push origin --delete yassine-new_feature
 
+![25](https://github.com/user-attachments/assets/9966f927-a365-4639-acd9-45dd7dbf888b)
+
 git push 
 
 
