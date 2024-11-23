@@ -119,6 +119,13 @@ git push origin --delete yassine-new_feature
 
 ![25](https://github.com/user-attachments/assets/9966f927-a365-4639-acd9-45dd7dbf888b)
 
+git checkout dev 
+touch git_commends.md 
+git add git_commends.md 
+git commit -m "add git_commends to the dev branch"
+
+![26](https://github.com/user-attachments/assets/57a54578-d013-4232-ac56-1f58ff415888)
+
 git push 
 
 
